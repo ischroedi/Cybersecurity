@@ -58,7 +58,50 @@ https://www.youtube.com/@devcentral
 
 
 
+### Gerald Auger, PhD - Simply Cyber
 
+Receive Practical Cybersecurity Knowledge Daily to Get a Cybersecurity Job or Level Up Your Career!
+
+🔥🚀 About Simply Cyber
+Daily Cyber Threat Briefings  Weekdays 8AM EST
+Livestream with Industry Experts Thursdays 4:30PM EST
+Cybersecurity World of Haiku Let's Plays Mondays 4:00PM EST
+
+Simply Cyber brings Information security related content to help take a cybersecurity career career further, faster.
+
+https://www.youtube.com/@SimplyCyber
+
+
+
+
+### Red Team Village
+The Official DEF CON Team Village continues to have an amazing lineup of speakers and presentations! The talks range from introductory topics of Red Teaming and Ethical Hacking to very advanced techniques and tactics. Speakers go over how they try to mimic a true adversary. Creating their own tools and exploits to compromise and access sensitive systems and information in any way possible, as quietly as possible.
+
+https://www.youtube.com/@RedTeamVillage
+
+
+### Joe Helle
+
+https://www.youtube.com/@JoeHellethemayor
+
+
+### OALabs
+
+Malware analysis tools, techniques, and tutorials!
+
+https://www.youtube.com/@OALABS
+
+
+### pwn.college
+Learn to hack! https://pwn.college/
+
+https://www.youtube.com/@pwncollege
+
+
+### LaurieWired
+Hi!  I'm LaurieWired, and I reverse engineer malware, focusing on cross-platform and mobile analysis.
+
+https://www.youtube.com/@lauriewired
 
 
 ----
